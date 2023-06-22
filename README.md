@@ -3,7 +3,6 @@ I am an aspiring web developer currently working on some awesome projects,
 to find more info about me read below!
 
 - 🔭 I’m currently working on https://ropanel.xyz
-- 🌱 I’m currently learning LISP
 - 👯 I’m looking to collaborate on projects I find intresting
 - 📫 How to reach me: luke@ropanel.xyz or lukewasneverhere@gmail.com
 - 😄 Pronouns: he/him
